@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1535562738 source:c:\users\aluno.ci-hp\desktop\eahuea\q3\main.cpp
+	<iostream>
+	<Funcionario.h>
+
+1535563883 source:c:\users\aluno.ci-hp\desktop\eahuea\q3\src\funcionario.cpp
+	"Funcionario.h"
+	<iostream>
+	<string>
+
+1535564189 c:\users\aluno.ci-hp\desktop\eahuea\q3\include\funcionario.h
+	<string>
+
+1535564243 source:c:\users\aluno.ci-hp\desktop\eahuea\q3\src\consultor.cpp
+	"Consultor.h"
+	"Funcionario.h"
+	<iostream>
+
+1535564243 c:\users\aluno.ci-hp\desktop\eahuea\q3\include\consultor.h
+	"Funcionario.h"
+
+1535565103 source:c:\users\aluno.ci-hp\desktop\eahuea\q3\src\minhaempresa.cpp
+	"MinhaEmpresa.h"
+	"Funcionario.h"
+	"Consultor.h"
+	<iostream>
+
+1535565127 c:\users\aluno.ci-hp\desktop\eahuea\q3\include\minhaempresa.h
+	"Funcionario.h"
+	"Consultor.h"
+
